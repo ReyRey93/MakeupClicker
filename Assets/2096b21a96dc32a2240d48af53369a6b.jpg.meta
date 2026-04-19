@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8cff22823c36dd84b9399ac3b7d4ea72
+guid: d20295cbbd098104693f0a9871b7a2af
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5505533354834850046
-    second: bglol_0
+      213: 4872874573501548321
+    second: 2096b21a96dc32a2240d48af53369a6b_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bglol_0
+      name: 2096b21a96dc32a2240d48af53369a6b_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 300
-        height: 150
+        width: 736
+        height: 1104
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 20f0106559a6893b0800000000000000
-      internalID: -5505533354834850046
+      spriteID: 127c7946b9def9340800000000000000
+      internalID: 4872874573501548321
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bglol_0: -5505533354834850046
+      2096b21a96dc32a2240d48af53369a6b_0: 4872874573501548321
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
